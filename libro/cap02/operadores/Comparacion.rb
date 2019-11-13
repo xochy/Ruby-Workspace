@@ -33,6 +33,3 @@ a = 5
 b = 9
 
 puts a <=> b
-
-
-#Linea que se agrega desde la laptop huawei
