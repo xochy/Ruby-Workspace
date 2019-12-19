@@ -1,4 +1,4 @@
-#Devuelven una expresion verdadero o falso
+#*Devuelven una expresion verdadero o falso
 cadena = "Hola Mundo"
 
 puts cadena.empty?

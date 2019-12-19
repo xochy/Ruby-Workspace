@@ -1,12 +1,12 @@
-#Reciben este nombre aquellos que incluyen un signo de exclamacion al final
+#*Reciben este nombre aquellos que incluyen un signo de exclamacion al final
 a = "Hola Mundo"
 
-#Sin metodo
+#*Sin metodo
 puts a.upcase
 
 puts a
 
-#Con metodo Bang
+#*Con metodo Bang
 puts a.upcase!
 
 puts a
